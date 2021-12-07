@@ -25,5 +25,5 @@ Skills: Python / Django / Bootstrap/JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filaraya)](https://github.com/filaraya/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filaraya&repo=github-readme-stats)](https://github.com/Filaraya/Daily-Python-Exercise/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filaraya&repo=github-readme-stats)](https://github.com/Filaraya/EngineeringSiteUIUX)
 
