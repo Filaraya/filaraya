@@ -19,3 +19,6 @@ Skills: Python / Django / Bootstrap/JS / HTML / CSS
 ![Filmon's github stats](https://github-readme-stats.vercel.app/api?username=filaraya&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filaraya)](https://github.com/filaraya/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filaraya&repo=github-readme-stats)](https://github.com/filaraya/github-readme-stats)
+
