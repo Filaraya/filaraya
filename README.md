@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filmon Y.Araya</h1>
 <h3 align="center">A passionate developer</h3>
-![Design and Development](https://github.com/Filaraya/filaraya/blob/main/Profile%20banner.png)
+
+(https://github.com/Filaraya/filaraya/blob/main/Profile%20banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filaraya&label=Profile%20views&color=0e75b6&style=flat" alt="filaraya" /> </p>
 
