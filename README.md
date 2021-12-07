@@ -2,6 +2,11 @@
 #### Design and Development
 ![Design and Development](https://github.com/Filaraya/filaraya/blob/main/Profile%20banner.png)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/filaraya/count.svg" />
+</p>
+
 I'm Filmon from Las Vegas, NV, and I do content on Design and Development. I graduated in Software Development, MSc from the Maryville University of St. Louis. I enjoy learning languages and frameworks like Python and Django, as well as working in Bootstrap. I also enjoy wireframing, ui, ux, and design in general.
 
 Skills: Python / Django / Bootstrap/JS / HTML / CSS
