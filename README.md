@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filmon Y.Araya</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ![](https://github.com/Filaraya/filaraya/blob/main/Profile%20banner.png)
 
