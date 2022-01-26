@@ -77,7 +77,7 @@ This project is developed and designed a database management for any sample comp
 This project is the real website designed for one of my client. 
 * **Technologies used:** HTML,CSS,JavaScript, Bootstrap, and Python/Django.
 
-  
+# [Overall Github stat] 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filaraya&show_icons=true&locale=en&layout=compact" alt="filaraya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filaraya&show_icons=true&locale=en" alt="filaraya" /></p>
