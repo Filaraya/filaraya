@@ -36,7 +36,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 </details>
 
-  # Education
+# Education
 * Masters of Science (Software Development), *Maryville University of St. Louis, MO*, Jan 2019 - Dec 2020
 * Bachelors of Science (Agro-Engineering), *Hamelmalo Agricultural College, Eritrea*, Jan 2007 - Aug 2012
 
@@ -77,6 +77,7 @@ This project is developed and designed a database management for any sample comp
 This project is the real website designed for one of my client. 
 * **Technologies used:** HTML,CSS,JavaScript, Bootstrap, and Python/Django.
 
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filaraya&show_icons=true&locale=en&layout=compact" alt="filaraya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filaraya&show_icons=true&locale=en" alt="filaraya" /></p>
