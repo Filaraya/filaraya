@@ -57,7 +57,6 @@ This app will help to collect a data and share of any incident.
 * **The source code** <a href="https://github.com/Filaraya/fieldColl">here on Github</a>
 
 # [Project 3: eTrainging web App](https://github.com/Filaraya/eTraining)
-![site demo](https://github.com/Filaraya/fieldColl/blob/master/screenshot_FieldCollApp.png)
 
 This is a web application that allows the employees to do attend companies capacity building via online. eTraining web application has features to Create, Read, Update and Delete (CRUD) materials.
 * **Technologies used:** HTML,CSS,JavaScript, Bootstrap, and Python/Django.
