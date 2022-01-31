@@ -73,7 +73,7 @@ This project is developed and designed a database management for any sample comp
 
 # [Project 5: Diaspora International Consultants](https://www.diasporainternationalconsultants.com/)
 
-This project is the real website designed for one of my client. 
+This website designed for one of my client. 
 * **Technologies used:** HTML,CSS,JavaScript, Bootstrap, and Python/Django.
 
 # Overall Github stat
