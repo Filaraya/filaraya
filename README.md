@@ -72,7 +72,7 @@ This project is developed and designed a database management for any sample comp
 * **The source code** <a href="https://github.com/Filaraya/Database-management-HR-project">here on Github</a>
 
 # [Project 5: Diaspora International Consultants](https://www.diasporainternationalconsultants.com/)
-![site demo](https://github.com/Filaraya/DIC/blob/main/Demo_DIC.gif)
+![site demo](https://github.com/Filaraya/filaraya/blob/main/Demo_DIC.gif)
 
 This website designed for one of my client. 
 * **Technologies used:** HTML,CSS,JavaScript, Bootstrap, and Python/Django.
