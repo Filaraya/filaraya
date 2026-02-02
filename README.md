@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filmon Araya</h1>
-<h3 align="center"> IT Engineer | System Admin | AWS |Python | </h3>
+<h3 align="center"> IT Engineer | System Admin | AWS | Python | </h3>
 
 ![](https://github.com/Filaraya/filaraya/blob/main/Profile%20banner.png)
 
