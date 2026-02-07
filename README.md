@@ -77,9 +77,20 @@ This project is developed and designed a database management for any sample comp
 This website designed for one of my client. 
 * **Technologies used:** HTML,CSS,JavaScript, Bootstrap, and Python/Django.
 
+# [Project 6: Network Scanner - Python Port Scanner Tool](https://github.com/Filaraya/network-scanner-python)
+![site demo](https://github.com/Filaraya/filaraya/blob/main/Network%20scanner%20.png)
+A Python-based network scanner for discovering active hosts and checking open ports on target systems. This educational project demonstrates networking fundamentals, socket programming, and security concepts.
+* **Technologies used:** Python
+
+* **The source code** <a href="https://github.com/Filaraya/network-scanner-python/blob/main/scanner.py">here on Github</a>
+
+
 # Overall Github stat
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filaraya&show_icons=true&locale=en&layout=compact" alt="filaraya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filaraya&show_icons=true&locale=en" alt="filaraya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filaraya&" alt="filaraya" /></p>
+
+
+
