@@ -79,6 +79,8 @@ This website designed for one of my client.
 
 # [Project 6: Network Scanner - Python Port Scanner Tool](https://github.com/Filaraya/network-scanner-python)
 ![site demo](https://github.com/Filaraya/filaraya/blob/main/Network%20scanner%20.png)
+
+
 A Python-based network scanner for discovering active hosts and checking open ports on target systems. This educational project demonstrates networking fundamentals, socket programming, and security concepts.
 * **Technologies used:** Python
 
